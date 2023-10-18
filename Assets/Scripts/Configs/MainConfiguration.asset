@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c256e24dbc74c94a376614196b0825f, type: 3}
+  m_Name: MainConfiguration
+  m_EditorClassIdentifier: 
+  startCellPosition: {x: -4.5, y: -0.25, z: 4.5}
+  gridSize: {x: 10, y: 10}
+  cellOffset: {x: 1, y: 1}
